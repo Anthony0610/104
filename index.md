@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>104 web</title>
+	<meta charset="utf-8"/>
+	<style type="text/css">
+		.b{color:blue}
+		.g{color:gray}
+		.head{
+			background-color:#003344;
+			color:white;
+			text-align:center;
+			font-weight:bold;
+			font-size:35px;
+		}
+		.f{
+			font-size:20px;
+		}
+	</style>
+	<script style="text/javascript">
+		var x;
+		x=prompt("input your seat number","0");
+		alert("welcome "+x);
+	</script>
+</head>
+<body style="margin:0px;background-color:#eeeeee">
+	<div class="head">專屬於104的網站</div>
+	<img src="181341.jpg" width="500" style="display:block;margin:auto;padding:10px"/>
+	<table border="1" width="500" style="margin:auto">
+		<tr>
+			<td><div class="f">IG粉專</div></td>
+			<td><a href="https://www.instagram.com/nehs_9th_104/?hl=zh-tw"><div class="b">launch</div></a></td>
+		</tr>
+	</table>
+	<table border="3" width="500" style="margin:auto">
+		<tr>
+			<td><div class="f">upload picture</div></td>
+			<td><a href="https://drive.google.com"><div class="b">click</div></a></td>
+		</tr>
+		<tr>
+			<td><div class="f">youtube</div></td>
+			<td><a href="https://www.youtube.com/"><div class="b">click</div></a></td>
+		</tr>
+		<tr>
+			<td><div class="f">zerojudge</div></td>
+			<td><a href="https://zerojudge.tw/"><div class="b">click</div></a></td>
+		</tr>
+	</table>
+</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/Anthony0610/104/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anthony0610/104/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
